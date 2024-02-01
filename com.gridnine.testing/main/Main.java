@@ -1,3 +1,9 @@
+package main;
+
+import main.model.Flight;
+import main.service.FlightBuilder;
+import main.service.FlightFilter;
+
 import java.time.LocalDateTime;
 import java.util.List;
 
